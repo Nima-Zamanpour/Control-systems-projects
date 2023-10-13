@@ -1,4 +1,4 @@
-This Repository contains the Matlab files (including .m and Simulink) for the implementation of a state-space control system in Mag-Lev trains as the final project of the Modern Control Systems course.
+This Repository contains the Matlab files (including .m and Simulink) for the implementation of a state-space control system in Mag-Lev trains as the final project of the Modern Control Systems course. The project description and report are in Farsi.
 The project is made of several parts:
 1. **Given the system state equations, Equilibrium points are found.**
 2. **The system is Linearized around the equilibrium point, and a state matrix is formed.**
