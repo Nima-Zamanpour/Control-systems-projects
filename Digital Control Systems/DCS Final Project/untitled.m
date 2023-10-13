@@ -1,2 +1,0 @@
-
-plot(out.simout1)
